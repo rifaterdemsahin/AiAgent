@@ -22,5 +22,5 @@ COPY . /app
 # Expose the port the app runs on
 EXPOSE 5000
 
-# Fix the CMD format to use JSON array format
-CMD ["python", "app.py"]
+# Update CMD to point to the correct file location
+CMD ["python", "app/app.py"]

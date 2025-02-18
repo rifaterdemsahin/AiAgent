@@ -1,7 +1,8 @@
 # AiAgent
 Ai agent self learning project
 
-
+## Contributors
+- Tolga Kisaogullari >  https://www.linkedin.com/in/tolga-k%C4%B1sao%C4%9Fullar%C4%B1-59588b95/
 
 ## AI First Approach
 - Document the prompts and commit the updates while progressing handson

@@ -1,3 +1,6 @@
+> Open integrated terminal 
+
+
 ```bash
 # 📦 Install Docker on your machine
 # 🐍 Install Python 3.8 or later
